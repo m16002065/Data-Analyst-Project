@@ -7,7 +7,8 @@ the Sales_Data_Visual is a fully interactive Power BI Dashboard Created to help 
 
 A screenshot of the visual attached for user that dont have Power BI
 
-![image](https://github.com/user-attachments/assets/ac0f4900-16bd-4d5c-acf4-bd79c6c41691)
+![image](https://github.com/user-attachments/assets/ae3a095d-f014-4486-b7c5-18a9e3dc12ec)
+
 
 
 
